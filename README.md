@@ -1,5 +1,8 @@
 # CEFHRI-Efficient-Federated-Learning
 Official implementation of the IROS Paper: CEFHRI: A Communication Efficient Federated Learning Framework for Recognizing Industrial Human-Robot Interaction
+
+[Arxiv Version]https://arxiv.org/abs/2308.14965v1
+
 # Environemnt
 The code has been tested for Python 3.9+ and Cuda 11.7
 # Dataset Preparation
